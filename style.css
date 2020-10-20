@@ -1,3 +1,35 @@
 body{
     background-color:#eae8e7 ;
+    font-family: 'roboto', sans-serif;
+    color:#767270;
+}
+.left
+{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    float: left;
+    background-color:#3DB1FF;
+    font-family: 'roboto', sans-serif;
+    color: #ffffff;
+    text-align: center;
+    width: 40%;
+}
+.left h2
+{
+
+    margin-bottom: 100px;
+}
+.left p{
+    text-align: justify;
+}
+.right
+{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    float: right;
+    font-family: 'roboto', sans-serif;
+    width:57%;
+}
+.right h4{
+    
 }
